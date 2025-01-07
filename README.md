@@ -1,5 +1,5 @@
 # ProductDetails
-Subjject of the  project :-
+Subject of the  project :-
 * Displaying the product details by adding products and we ccan edit the specific product details along with admin functionality *
 
 1:- For Admin Login Functionality
